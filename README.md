@@ -1,3 +1,3 @@
 # simple-calculator
 
-just simple calculator using tkinter GUI  framework
+just simple calculator using tkinter GUI  Framework
